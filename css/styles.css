@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+div{
+  margin: 0;
+}
+a{
+  position: relative;
+  bottom:50px;
+  font-family: "Verdana", sans-serif;
+}
+
+p{
+  display: block;
+  padding-top: 10px;
+  margin-bottom: 15px;
+  color: #7267CB;
+}
+.About{
+  padding-left: 500px;
+
+}
+.text{
+  display: block;
+  padding-top: 50px;
+  margin-bottom: 15px;
+  margin-top: 100px;
+  font-family: "Meow Script", sans-serif;
+
+
+  color: #7267CB;
+}
+.top-container{
+
+  position: fixed;
+  top: 0;
+  background-color: #F0EBCC;
+  width:100%;
+  border-bottom: thick double #32a1ce;
+
+}
+.middle-container{
+  width: 100%;
+
+  background-color: #D7E9F7;
+
+}
+.bottom-container{
+  width: 100%;
+  height: 150px;
+  position: relative;
+  background-color: #FFF5AB;
+}
+.barrel{
+  height: 100px;
+  margin-top: 10px;
+  margin-bottom: 0;
+  background-color: #F0EBCC;
+}
+.palmtree{
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+.info{
+  display: inline-block;
+  position: relative;
+  bottom: 75px;
+
+}
+.surfvan{
+  width: 150px;
+  height: 150px;
+}
